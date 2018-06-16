@@ -6,7 +6,7 @@ import {Link} from "react-router-dom";
 
 const HomePage = () =>(
     <div className ="ui container">
-        <h1>Opt USA </h1>
+        <h1>Ashutosh Kaur </h1>
         <Link to="/login">Login</Link>
 
     </div>

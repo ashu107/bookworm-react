@@ -10,7 +10,7 @@ class LoginPage extends React.Component {
     render() {
         return(
         <div className ="ui container">
-                <h1>Opt USA Login</h1>
+                <h1>Login</h1>
             <LoginForm submit={this.submit} />
         </div>
     );
